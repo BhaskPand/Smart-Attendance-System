@@ -22,20 +22,7 @@ OpenCV	Face detection and video processing
 MediaPipe	Facial landmark recognition
 NumPy	Image array manipulation
 HTML, CSS, JS	Frontend interface
-📂 Project Structure
-text
-Smart-Attendance-System/
-│
-├── app.py                 # Flask backend entry point
-├── templates/
-│   ├── index.html         # Home page
-│   ├── attendance.html    # Attendance dashboard
-├── static/
-│   ├── style.css          # Styling
-│   ├── script.js          # Frontend logic
-├── dataset/               # Stored face data
-├── attendance.csv         # Attendance records
-└── requirements.txt       # Dependencies
+
 ⚙️ Installation and Setup
 Clone the Repository
 
