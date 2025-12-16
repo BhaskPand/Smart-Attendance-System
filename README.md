@@ -54,7 +54,7 @@ OpenCV detects faces and MediaPipe identifies key landmarks.
 
 Matched faces are logged into a CSV file with attendance timestamp.
 
-Admin can view attendance records from the web dashboard.
+Admin can view attendance records from the web dashboard...
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss proposed modifications.
